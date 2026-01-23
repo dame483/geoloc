@@ -1,5 +1,7 @@
 # Geoloc
 
+## Ne considerer que la premiere partie
+
 ## infos
 ligne 42368 : photo id 5464485473, correction -> les dates étaient décalée, le # de minutes (25) était collé au titre de la photo ("une lundi matin comme tout les autre ;-(") et le décalage était propagé.
 
